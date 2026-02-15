@@ -165,3 +165,30 @@ Além de apresentar os custos passo a passo, o dashboard trouxe indicadores que 
 - Gestão de risco
 
 O projeto demonstra capacidade analítica, modelagem financeira e transformação de dados em suporte estratégico para o negócio.
+
+## 🔄 Pipeline de Dados
+
+O projeto foi dividido em duas frentes complementares:
+
+1. Coleta e tratamento inicial via script (API + Google Sheets)
+2. Modelagem analítica e construção do dashboard no Power BI
+
+A coleta dos dados foi realizada via API do Mercado Livre, utilizando script para automatizar a extração e organizar as informações em Google Sheets.
+
+Após essa etapa, os dados passaram por validação, padronização e modelagem no Power BI, onde foram criadas as métricas, KPIs e análises exploratórias apresentadas no dashboard.
+
+## 🔗 Links Úteis 
+
+# 💻 Repositório Técnico
+
+A etapa de coleta e automação via API pode ser consultada no repositório técnico do projeto:
+
+🔗 [Repositório Tech Comex](https://github.com/ithiagojs/comex-site-v2)
+
+🌐 [Site Comex](https://import-hunter.vercel.app/)
+
+📑 [Sheets com a base de Dados](https://docs.google.com/spreadsheets/d/1XmZuiNUZMyYHbPke7uMoERvs3WeGM2ayMoiSdAgiNZM/edit?usp=sharing)
+
+🗄 [Streamlit de referência com os dados - Luiz Chiavini](https://comexio.streamlit.app/)
+
+
