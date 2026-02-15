@@ -1,6 +1,6 @@
 # 📊 COMEX.IO — Import Hunter
 
-## 👩‍💼 Contexto do Projeto
+## ℹ️ Contexto do Projeto
 
 O projeto COMEX.IO surge a partir de um desafio proposto pelo Sr. Roberto, diretor de compras.
 
@@ -191,4 +191,9 @@ A etapa de coleta e automação via API pode ser consultada no repositório téc
 
 🗄 [Streamlit de referência com os dados - Luiz Chiavini](https://comexio.streamlit.app/)
 
+🧩 [Board Trello](https://trello.com/invite/b/696e2f9f3983848b6e2999a6/ATTI4feb939358af97a451a25b6d105e592865545E52/comex-io-grupo-7)
 
+
+## 📖 Sobre o Projeto
+
+O Comex io foi desenvolvido em conjunto por Karina Martins e Thiago Jacques para o projeto final do Bootcamp de Analista de Dados da Generation Brasil 
